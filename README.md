@@ -12,7 +12,7 @@ As artificial intelligence technology rapidly advances, it is likely to implemen
 
 Content:
 
-* [Online HTML format](en/main.html)
+* [Online HTML format](https://wwbmmm.github.io/asi-safety-solution/en/main.html)
 * [PDF file format](en/main.pdf)
 
 ## 中文版
@@ -25,5 +25,5 @@ Content:
 
 内容：
 
-* [在线HTML格式](en/main.html)
+* [在线HTML格式](https://wwbmmm.github.io/asi-safety-solution/cn/main.html)
 * [PDF文件格式](cn/main.pdf)
