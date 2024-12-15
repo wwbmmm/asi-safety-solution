@@ -1,10 +1,8 @@
-# asi-safety-solution
+# ASI Safety Solution
 
-This is a paper about AI safety.
+This is a paper about ASI safety.
 
-## English Version
-
-Title: A Comprehensive Solution to Ensure the Safety and Controllability of Artificial Superintelligence
+## A Comprehensive Solution to Ensure the Safety and Controllability of Artificial Superintelligence
 
 Abstract:
 
@@ -15,9 +13,9 @@ Content:
 * [Online HTML format](https://wwbmmm.github.io/asi-safety-solution/en/main.html)
 * [PDF file format](en/main.pdf)
 
-## 中文版
+Chinese Version:
 
-标题：确保超级人工智能安全可控的全面解决方案
+## 确保超级人工智能安全可控的全面解决方案
 
 摘要：
 
