@@ -1,4 +1,4 @@
-# ASI Safety Solution
+# asi-safety-solution
 
 This is a paper about ASI safety.
 
