@@ -1,4 +1,5 @@
 .underline{ font-weight: bold; text-decoration: none}
+body{ max-width:90ch;}
 @media (min-width: 768px) {
     body{ margin-left: 30%}
     .tableofcontents { position: fixed; width: 25%; height: 96%; overflow-y: auto; top: 2%; left: 2%; }
