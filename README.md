@@ -23,4 +23,5 @@ Chinese Version:
 
 内容：
 
+* [在线HTML格式](https://wwbmmm.github.io/asi-safety-solution/cn/main.html)
 * [PDF文件格式](cn/main.pdf)
