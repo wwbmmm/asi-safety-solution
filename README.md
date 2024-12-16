@@ -13,9 +13,14 @@ Content:
 * [Online HTML format](https://wwbmmm.github.io/asi-safety-solution/en/main.html)
 * [PDF file format](en/main.pdf)
 
+Contact:
+
+* Email: <wwbmmm@gmail.com>
+* Discussion: <https://github.com/wwbmmm/asi-safety-solution/discussions>
+
 Chinese Version:
 
-## 确保超级人工智能安全可控的全面解决方案
+## 实现超级人工智能安全可控的全面解决方案
 
 摘要：
 
