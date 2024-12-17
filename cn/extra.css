@@ -2,5 +2,6 @@
 body{ max-width:90ch;}
 @media (min-width: 768px) {
     body{ margin-left: 25%}
+    .likesectionHead { display:none }
     .tableofcontents { position: fixed; width: 20%; height: 96%; overflow-y: auto; top: 2%; left: 2%; }
 }

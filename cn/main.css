@@ -22,6 +22,8 @@
 .unisong73-x-x-120{font-size:120%;}
 .unisong4f-x-x-120{font-size:120%;}
 .unisong51-x-x-120{font-size:120%;}
+.ts1-lmr12-{font-size:120%;}
+.ts1-lmr10-x-x-105{font-size:105%;}
 .unisong64-x-x-120{font-size:120%;}
 .unisong89-x-x-120{font-size:120%;}
 .unisong96-x-x-120{font-size:120%;}
@@ -148,7 +150,6 @@
 .unisong87-x-x-105{font-size:105%;}
 .unisong81-x-x-105{font-size:105%;}
 .unisongff-x-x-105{font-size:105%;}
-.ts1-lmr10-x-x-105{font-size:105%;}
 .unisong6a-x-x-105{font-size:105%;}
 .unisong82-x-x-105{font-size:105%;}
 .unisong97-x-x-105{font-size:105%;}
@@ -197,7 +198,6 @@
 .unisong74-x-x-75{font-size:75%;}
 .unisong8e-x-x-105{font-size:105%;}
 .unisong7d-x-x-105{font-size:105%;}
-.rm-lmbx-10x-x-105{font-size:105%; font-weight: bold;}
 .unisong97-x-x-75{font-size:75%;}
 .unisong81-x-x-75{font-size:75%;}
 .unisong60-x-x-75{font-size:75%;}
@@ -248,31 +248,13 @@
 .unisong50-x-x-75{font-size:75%;}
 .unisong7f-x-x-75{font-size:75%;}
 .unisong8e-x-x-75{font-size:75%;}
-.unihei4f-x-x-105{font-size:105%;}
-.unihei-62x-x-105{font-size:105%;}
-.unihei4e-x-x-105{font-size:105%;}
-.unihei7c-x-x-105{font-size:105%;}
-.unihei-50x-x-105{font-size:105%;}
 .unisong91-x-x-75{font-size:75%;}
 .unisong56-x-x-75{font-size:75%;}
 .unisong70-x-x-75{font-size:75%;}
 .unisong6d-x-x-75{font-size:75%;}
-.unihei-78x-x-105{font-size:105%;}
-.unihei-53x-x-105{font-size:105%;}
-.unihei-63x-x-105{font-size:105%;}
 .unisong72-x-x-75{font-size:75%;}
 .unisong7a-x-x-75{font-size:75%;}
 .unisong68-x-x-75{font-size:75%;}
-.unihei-59x-x-105{font-size:105%;}
-.unihei-60x-x-105{font-size:105%;}
-.unihei-51x-x-105{font-size:105%;}
-.unihei7a-x-x-105{font-size:105%;}
-.unihei5c-x-x-105{font-size:105%;}
-.unihei-69x-x-105{font-size:105%;}
-.unihei-73x-x-105{font-size:105%;}
-.unihei-66x-x-105{font-size:105%;}
-.unihei-52x-x-105{font-size:105%;}
-.unihei7e-x-x-105{font-size:105%;}
 .unisong92-x-x-105{font-size:105%;}
 .unisong68-x-x-90{font-size:90%;}
 .unisong98-x-x-75{font-size:75%;}
@@ -330,9 +312,6 @@
 .unisong74-x-x-90{font-size:90%;}
 .unisong55-x-x-75{font-size:75%;}
 .unisong5d-x-x-90{font-size:90%;}
-.unihei6a-x-x-105{font-size:105%;}
-.unihei-54x-x-105{font-size:105%;}
-.unihei5e-x-x-105{font-size:105%;}
 .unisong8a-x-x-75{font-size:75%;}
 .rm-lmri-10x-x-105{font-size:105%; font-style:italic;}
 .rm-lmcsc-10x-x-105{font-size:105%;font-variant: small-caps;}
